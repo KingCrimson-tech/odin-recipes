@@ -13,3 +13,13 @@ body h1 {
     margin-right: auto;
     width: 50%;
 }
+
+.container-main {
+    padding: 16px;
+    margin: auto;
+    width: 200px;
+}
+
+.main-image {
+    margin: 16px;
+}
